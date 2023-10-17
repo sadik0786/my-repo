@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.fa6c99dd.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.a4698a55.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.a4698a55.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.59db3632.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.59db3632.js.map",
+    "static/js/2.2bbd374b.chunk.js": "/my-portfolio/static/js/2.2bbd374b.chunk.js",
+    "static/js/2.2bbd374b.chunk.js.map": "/my-portfolio/static/js/2.2bbd374b.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.3e6cabae01e0693b6ebca587e7d9a57a.js": "/my-portfolio/precache-manifest.3e6cabae01e0693b6ebca587e7d9a57a.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.fa6c99dd.chunk.css.map": "/my-portfolio/static/css/main.fa6c99dd.chunk.css.map",
+    "static/js/2.2bbd374b.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.2bbd374b.chunk.js.LICENSE.txt",
+    "static/media/Jarvis.png": "/my-portfolio/static/media/Jarvis.8f4e10fa.png",
+    "static/media/bol.png": "/my-portfolio/static/media/bol.43fd47ff.png",
+    "static/media/App.css": "/my-portfolio/static/media/sadik.084f22ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59db3632.js",
+    "static/js/2.2bbd374b.chunk.js",
+    "static/css/main.fa6c99dd.chunk.css",
+    "static/js/main.a4698a55.chunk.js"
+  ]
+}
