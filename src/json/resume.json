@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "year": 2020,
+    "projectname": "GINFOMEDIA SOLUTION",
+    "technology": "HTML CSS JS PHP MYSQL",
+    "projectdesc": "",
+    "URL":""
+  },
+  {
+    "id": 2,
+    "year": 2021,
+    "projectname": "CIFE",
+    "technology": "HTML CSS JS",
+    "projectdesc": "",
+    "URL":""
+  },
+  {
+    "id": 3,
+    "year": 2022,
+    "projectname": "5nance.com (Finscore Module)",
+    "technology": "HTML CSS JS MVC",
+    "projectdesc": "",
+    "URL":"https://www.5nance.com/finscore"
+  },
+  {
+    "id": 4,
+    "year": 2022,
+    "projectname": "Partner Portal",
+    "technology": "HTML CSS REACTJS NEXTJS PWA MUI",
+    "projectdesc": "",
+    "URL":"https://partner.5nance.com/"
+  },
+  {
+    "id": 5,
+    "year": 2022,
+    "projectname": "Equity Dashboard",
+    "technology": "HTML CSS REACTJS NEXTJS PWA MUI",
+    "projectdesc": "",
+    "URL":"https://institutions.5nance.com/"
+  },
+  {
+    "id": 6,
+    "year": 2022,
+    "projectname": "Insurance APP (ALLROUNDER)",
+    "technology": "HTML CSS REACTJS NEXTJS PWA BULMA-CSS ",
+    "projectdesc": "",
+    "URL":"https://pwa.5nanceinsure.com/"
+  },
+  {
+    "id": 7,
+    "year": 2023,
+    "projectname": "Goal Planning",
+    "technology": "HTML CSS REACTJS NEXTJS PWA MUI",
+    "projectdesc": "",
+    "URL":""
+  },
+  {
+    "id": 8,
+    "year": 2023,
+    "projectname": "Finscore",
+    "technology": "HTML CSS REACTJS NEXTJS PWA MUI",
+    "projectdesc": "",
+    "URL":""
+  },
+  {
+    "id": 9,
+    "year": 2023,
+    "projectname": "Finplan",
+    "technology": "HTML CSS REACTJS NEXTJS PWA MUI",
+    "projectdesc": "",
+    "URL":""
+  },
+  {
+    "id": 10,
+    "year": 2023,
+    "projectname": "HR Management",
+    "technology": "HTML CSS REACTJS NEXTJS PWA MUI",
+    "projectdesc": "",
+    "URL":""
+  }
+]
